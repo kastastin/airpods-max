@@ -86,7 +86,7 @@
   .header__top {
     align-items: flex-start;
   }
-  
+
   .menu__list {
     flex-wrap: wrap;
     gap: 20px 40px;
@@ -95,15 +95,15 @@
   .menu__item:first-child {
     margin-left: auto;
   }
-  
-  .menu__item-btn {
+
+  .menu__item_btn {
     margin-left: auto;
   }
 
-  .menu__item-btn button {
+  .menu__item_btn button {
     width: 250px;
   }
-  
+
   .choose-color {
     padding-bottom: 40px;
   }
